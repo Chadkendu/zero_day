@@ -1,1 +1,1 @@
-This is the zeroday project
+This is the zero-day project for the alx program
